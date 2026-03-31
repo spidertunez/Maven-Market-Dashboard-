@@ -50,7 +50,8 @@ These images describe the dashboard +4
 
 
 <img width="984" height="558" alt="Screenshot 2026-03-31 at 7 15 32 PM" src="https://github.com/user-attachments/assets/3e4969d1-f72b-4a88-abf5-7d49f4cf8514" />
-<img width="984" height="558" alt="Screenshot 2026-03-31 at 7 15 32 PM" src="https://github.com/user-attachments/assets/03be4e68-aa1b-4aa0-83bd-6cf829de69fa" />
+<img width="981" height="550" alt="Screenshot 2026-03-31 at 7 19 17 PM" src="https://github.com/user-attachments/assets/91b037e5-de1d-434b-8abd-08bd537196c3" />
+
 
 
 
